@@ -9,7 +9,7 @@ window.resizable(0, 0)
 window.title("Calcualtor")
 #function
 def about():
-    messagebox.showinfo('About',"\n \n \n   tugas kalkulator   \n \n \n")
+    messagebox.showinfo('About',"\n \n \n   tugas kalkulator   \n didik Setiawan \n XII RPL 2 absen 33 \n")
 
 def clickButton(item):
     global expression
